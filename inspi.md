@@ -1,6 +1,6 @@
 # Portfolio Development Guide
 
-## Requirements
+## Directives
 - The portfolio needs to be one page and open source.
 - Build multilingual support [French, English].
 - Admin of the portfolio can be in Angular [first admin with an API, implement admin panel afterward].
@@ -45,10 +45,10 @@
 
 ### i keep !!
 - [amirdev](https://amirdev.nl/) :
-    - emoji - using it for the landing page profil
-    - As a challenge : build the whole page from scratch w/ tailwind, next js...
+    - emoji - using it for the landing page profil |  ![this](./emoji.webp)
+    - As a challenge : build the whole page from scratch w/ tailwind, next js... ![alike](./as-a-whole.png)
 - [malikov](https://www.abdusamad.uz/) :
-    - the ctrl + k command at the top roght of the page
+    - the ctrl + k command at the top right of the page
     - ? the indication to use the command
     - articles page
     - ? very simple "contact me" page | why not ?
@@ -58,7 +58,7 @@
 - [akashpawara](https://akashpawara.com/) : 
     - the "send me a signal" button on contact page
 - [akashrajpurohit](https://akashrajpurohit.com/) : 
-    - git running gif | https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake.svg
+    - git running gif | ![here](https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake.svg)
     - "work & hire me" section in about page
     - follow on platforms section
     - "list of honorable projects on github" section in projects page | the hover of the cards
@@ -78,106 +78,25 @@
     - Resume section | ? use the resumeOnTheWeb project of auspham.. or build mine (opensource)
     - "star this project button on github" button
 - [antonio_d](https://www.antoinedangleterre.com/) :
-    - disponibility status
+    - disponibility status | ![like this](./dispo.png)
 - [ashish](https://ashishmehra.dev/) : 
     - mockup for recent work images
 - [auspham](https://auspham.dev/) : 
     - full page js
     - projects section | open source project pull directly from github (really ? live ? [here](https://chatgpt.com/share/03f5a945-f77d-49f5-9244-002e45a8e70a))
 - [theo](https://thea.juniorise.com/) : 
-    - site icon
+    - favicon | ninja
 - [christian](https://www.chintristan.io/) :
     - animation around the profile pic
+    ![this](./tristan.png)
 - [vivek](https://www.vivek9patel.com/) : 
-    - custom cursor | [npm animated cursor](https://www.npmjs.com/package/react-animated-)
+    - custom cursor | [npm animated cursor](https://www.npmjs.com/package/react-animated-) 
+    
+        ![cusor](./cursor.png)
     - resume visualisation page
+- [yusuf](https://www.yusufyildirim.dev/) :
+    - i find this clean
 
-
-### step by step guide 
-# Step-by-Step Guide to Implement Features from Portfolio Inspirations
-
-## 1. Landing Page (Home)
-- **Emoji in Profile:** Use emojis in the landing page profile section to add personality.
-- **Challenges Section:** Implement a section detailing personal challenges in building the website from scratch using Tailwind CSS and Next.js.
-
-## 2. Navigation Bar
-- **Left-aligned Nav Bar:** Create a left-aligned navigation bar for easy access.
-- **Menu Button Animation:** Implement a menu button that disappears on hover to reveal menu options.
-
-## 3. Theme Switch Button
-- Add a theme switch button to toggle between light and dark modes.
-
-## 4. Ctrl + K Command
-- Implement a Ctrl + K command at the top right corner of the page for quick access to search functionality.
-
-## 5. Articles Page
-- Create a dedicated page for articles with a simple layout and navigation.
-
-## 6. Contact Me Page
-- Design a simple "Contact Me" page with prominent contact options.
-- Include a "Send Me a Signal" button for a unique touch.
-
-## 7. About Me Section
-- Develop an "About Me" section with information about professional background and interests.
-
-## 8. Work & Hire Me Section
-- Design a section showcasing work and inviting potential employers to hire.
-
-## 9. Follow on Platforms Section
-- Include social media links for visitors to follow on different platforms.
-
-## 10. List of Honorable Projects on GitHub
-- Create a section displaying notable GitHub projects with hover effects.
-
-## 11. Snippets Page
-- Implement a page for code snippets or other useful resources.
-
-## 12. Section at the Bottom of Every Blog Post
-- Add a consistent section at the end of each blog post for staying updated and seeking help.
-
-## 13. Mockup for Recent Work Images
-- Design a mockup layout to showcase recent work images attractively.
-
-## 14. Availability Status
-- Include a status indicator to show availability for projects or collaborations.
-
-## 15. Resume Visualization Page
-- Create a page for visualizing the resume with interactive elements.
-
-## 16. Site Icon
-- Add a unique site icon for branding and recognition.
-
-## 17. Animation Around Profile Pic
-- Implement animation effects around the profile picture for visual appeal.
-
-## 18. Custom Cursor
-- Use a custom cursor with animation for an interactive experience.
-
-## 19. Resume Section
-- Develop a section to display the resume with downloadable options.
-
-## 20. "Star This Project" Button on GitHub
-- Include a button to star the project on GitHub for user engagement.
-
-## 21. Full Page JavaScript
-- Optimize the website with full-page JavaScript for enhanced functionality.
-
-## 22. Open Source Project Section
-- Integrate a section to showcase open-source projects directly from GitHub.
-
----
-
-## References
-- [amirdev](https://amirdev.nl/)
-- [malikov](https://www.abdusamad.uz/)
-- [akashpawara](https://akashpawara.com/)
-- [akashrajpurohit](https://akashrajpurohit.com/)
-- [amruth](https://www.amruthpillai.com/)
-- [antonio_d](https://www.antoinedangleterre.com/)
-- [ashish](https://ashishmehra.dev/)
-- [auspham](https://auspham.dev/)
-- [theo](https://thea.juniorise.com/)
-- [christian](https://www.chintristan.io/)
-- [vivek](https://www.vivek9patel.com/)
+    ![this](./reach_me.png)
 
 
