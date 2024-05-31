@@ -45,8 +45,8 @@
 
 ### i keep !!
 - [amirdev](https://amirdev.nl/) :
-    - emoji - using it for the landing page profil |  ![this](./emoji.webp)
-    - As a challenge : build the whole page from scratch w/ tailwind, next js... ![alike](./as-a-whole.png)
+    - emoji - using it for the landing page profil |  ![this](./images/emoji.webp)
+    - As a challenge : build the whole page from scratch w/ tailwind, next js... ![alike](./images/as-a-whole.png)
 - [malikov](https://www.abdusamad.uz/) :
     - the ctrl + k command at the top right of the page
     - ? the indication to use the command
@@ -64,7 +64,7 @@
     - "list of honorable projects on github" section in projects page | the hover of the cards
     - snippets page | *
     - section at the bottom of every blog post | stay up to date - need help, let's talk ... 
-    ![screenshot](section-image.png)
+    ![screenshot](./images/section-image.png)
 -  [amruth](https://www.amruthpillai.com/) : 
     - naviguation bar on the left
     - logo at the top right & hover showing "Go to top" + the functionnality
@@ -78,7 +78,7 @@
     - Resume section | ? use the resumeOnTheWeb project of auspham.. or build mine (opensource)
     - "star this project button on github" button
 - [antonio_d](https://www.antoinedangleterre.com/) :
-    - disponibility status | ![like this](./dispo.png)
+    - disponibility status | ![like this](./images/dispo.png)
 - [ashish](https://ashishmehra.dev/) : 
     - mockup for recent work images
 - [auspham](https://auspham.dev/) : 
@@ -88,15 +88,15 @@
     - favicon | ninja
 - [christian](https://www.chintristan.io/) :
     - animation around the profile pic
-    ![this](./tristan.png)
+    ![this](./images/tristan.png)
 - [vivek](https://www.vivek9patel.com/) : 
     - custom cursor | [npm animated cursor](https://www.npmjs.com/package/react-animated-) 
     
-        ![cusor](./cursor.png)
+        ![cusor](./images/cursor.png)
     - resume visualisation page
 - [yusuf](https://www.yusufyildirim.dev/) :
     - i find this clean
 
-    ![this](./reach_me.png)
+    ![this](./images/reach_me.png)
 
 
