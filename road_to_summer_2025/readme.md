@@ -35,4 +35,4 @@
 - Remote / Hybride
 
 ## Timeline
-- From June 2024 to March 2025... (10 months)
+- From July 2024 to april 2025... (10 months)

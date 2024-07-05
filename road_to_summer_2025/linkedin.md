@@ -18,6 +18,7 @@
     - https://www.youtube.com/watch?v=AJocoZEV7ew
 
 ## Networking
+1. [evel-up-your-job-search](https://www.linkedin.com/pulse/how-level-up-your-job-search-strategic-networking-andrew-seaman-9bfyf/)
 
 
 ## Internships
